@@ -1,8 +1,8 @@
 # Chemical and Transcriptional Dynamics of Phosphorus and Iron Cycle in Soils Subjected to Short-Term Oxic and Anoxic Conditions #
 
-Benjamin Castillo, Todd Walter, Anthony R Buda, and John M. Regan
+###                             Benjamin Castillo*, Todd Walter**, Anthony R Buda***, and John M. Regan*
  
-Civil and Envr. Engr., Penn State University, University Park, PA; Biol. And Envr. Engr., Cornell University, Ithaca, NY; USDA-ARS, University Park, PA.
+*Civil and Envr. Engr., Penn State University, **University Park, PA; Biol. And Envr. Engr., Cornell University, Ithaca, NY; ***USDA-ARS, University Park, PA.
 
 Email: bac5901@psu.edu
 
