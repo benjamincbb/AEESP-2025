@@ -1,4 +1,4 @@
-Chemical and Transcriptional Dynamics of Phosphorus and Iron Cycle in Soils Subjected to Short-Term Oxic and Anoxic Conditions 
+Chemical and Transcriptional Dynamics of Phosphorus and Iron Cycle in Soils Subjected to Short-Term Oxic and Anoxic Conditions
 
  Benjamin Castillo, Todd Walter, Anthony R Buda, and John M. Regan
  
