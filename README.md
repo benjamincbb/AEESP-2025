@@ -6,6 +6,11 @@ Civil and Envr. Engr., Penn State University, University Park, PA; Biol. And Env
 
 Email: bac5901@psu.edu
 
+
+Table 1. Physicochemical characterization of forest (FRT) and agricultural (AGR) soils irrigated with TWW.
+<img width="1098" alt="Screenshot 2025-05-14 at 5 49 24 PM" src="https://github.com/user-attachments/assets/38e70dea-7e20-4595-9344-f8603d9bd8c4" />
+
+
 ![AGR_Oxygen and Nitric reductases](https://github.com/user-attachments/assets/8bc1ee40-6814-4ab7-bd94-4ffd2ea524ff)
 Figure X. Gene and transcript abundances (FPKM) of terminal oxygen and nitric oxide reductases in an agricultural soil exposed to short-term oxic/anoxic conditions.
 
